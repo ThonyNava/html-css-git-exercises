@@ -1,18 +1,61 @@
-# Website
+# [Start Bootstrap - Business Frontpage](https://startbootstrap.com/templates/business-frontpage/)
 
-Create a new webpage on a subject that you're interested in (maybe the same topic you used for your Codepen submission).
+[Business Frontpage](https://startbootstrap.com/templates/business-frontpage/) is a basic business website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
-It should include the following elements:
+## Preview
 
-- The `.html` page and a linked `.css` file applies a consistent color scheme to links and text on your page.
-- A page header with a title and description for the site.
-- An articles section with three articles, each including a title, summary and a link.
-- A page footer containing info about you or the site.
-- Proper use of the semantic HTML tags we discussed.
-- Research the `:first-child` pseudo-class and use it to style the first article so that it stands out from the others.
-- Use this website [Lorem Ipsum](http://www.lipsum.com/) to generate random blocks of contents to fill your website.
-- Use the sketch below to guide you towards the layout and content you are trying to achieve. _Please note that this is just a sketch - you can choose the colours, fonts and images that you want to use in the page._
+[![Business Frontpage Preview](https://startbootstrap.com/assets/img/screenshots/templates/business-frontpage.png)](https://startbootstrap.github.io/startbootstrap-business-frontpage/)
 
-  <a href="blog-sketch-week-1.png" target="blank">
-    <img src="blog-sketch-week-1.png" style="border: 1px solid #bababa;">
-  </a>
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-business-frontpage/)**
+
+## Status
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-business-frontpage/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-business-frontpage.svg)](https://www.npmjs.com/package/startbootstrap-business-frontpage)
+[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-business-frontpage.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-business-frontpage)
+[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-business-frontpage/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-business-frontpage)
+[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-business-frontpage/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-business-frontpage?type=dev)
+
+## Download and Installation
+
+To begin using this template, choose one of the following options to get started:
+
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/templates/business-frontpage/)
+* Install via npm: `npm i startbootstrap-business-frontpage`
+* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-business-frontpage.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-business-frontpage)
+
+## Usage
+
+### Basic Usage
+
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+
+### Advanced Usage
+
+After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+
+You must have npm and Gulp installed globally on your machine in order to use these features.
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-business-frontpage/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/templates/business-frontpage/).
+
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* <https://startbootstrap.com>
+* <https://twitter.com/SBootstrap>
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
+
+* <http://davidmiller.io>
+* <https://twitter.com/davidmillerskt>
+* <https://github.com/davidtmiller>
+
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/gh-pages/LICENSE) license.
