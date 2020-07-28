@@ -186,3 +186,28 @@ button {
     max-height: 80px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .jumbotron h1 {
+    font-size: 1.5rem;
+    font-weight: bolder;
+  }
+}
+
+.boxes {
+  padding-bottom: 30px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.boxes div {
+  height: 100px;
+  width: 100px;
+  border: solid 2px #161616;
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
